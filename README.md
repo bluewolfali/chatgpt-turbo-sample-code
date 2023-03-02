@@ -1,4 +1,4 @@
-# chatgpt-turbo-sample-code
+# chatgpt turbo sample code
 
 This is a simple code sample demonstrating the use of OpenAI's new model "gpt-3.5-turbo" with the Go programming language. The project allows for the storage of a user's previous conversations, enabling sustainable dialogue.  
 
